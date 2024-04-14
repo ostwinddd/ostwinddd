@@ -2,7 +2,7 @@
 - 👀 I’m studying Computer Science (and english)
 - 🌱 I’m currently learning web and python
 - 📫 How to reach me = {
-  > "Telegram": "@ostwinddd",
+  > "Telegram": "@ostwinddd",  
   > "Discord": "oswi__"
   }
 - 😄 Pronouns: he/him
