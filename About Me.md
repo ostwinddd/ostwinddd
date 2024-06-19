@@ -1,6 +1,6 @@
 - 👋 Hi, i’m oswi__
 - 👀 I’m studying Computer Science (and english)
-- 🌱 I’m currently learning web and python
+- 🌱 I’m currently learning web and backend
 - 📫 How to reach me = {
   > "Telegram": "@ostwinddd",  
   > "Discord": "oswi__"
