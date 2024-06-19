@@ -6,4 +6,4 @@
   > "Discord": "oswi__"
   }
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In fact, the term “panther” can refer to a leopard, jaguar. Thus, panthers do not exist.
+- ⚡ Fun fact: In fact, the term “panther” refer to a leopard, jaguar. Thus, panthers do not exist.
